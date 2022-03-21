@@ -1,6 +1,8 @@
 # ConFusion
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
+Documentação -> [Data Binding](https://github.com/angular/angular-cli)
+
+This project was generated with [Angular CLI](https://github.com/ruriknj/coursera-angular/blob/master/documentation/Data-Binding.pdf) version 6.2.1.
 
 ## Development server
 
