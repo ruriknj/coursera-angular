@@ -5,7 +5,7 @@
 
 Documentação:
 - [Data Binding](https://github.com/ruriknj/coursera-angular/blob/master/documentation/Data-Binding.pdf)
-- [Angular Template Syntaxe](https://angular.io/guide/template-syntax)
+- [Angular Template Syntaxe](https://angular.io/guide/template-syntax#more-on-template-syntax)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
 
